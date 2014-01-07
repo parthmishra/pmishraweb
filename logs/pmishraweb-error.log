@@ -440,3 +440,12 @@
 [Thu Aug 22 00:00:18 2013] [error] [client 172.16.217.135] PHP Notice:  Undefined variable: result in /srv/www/pmishraweb/WebContent/result.php on line 151, referer: http://pmishraweb.bridgetechnologypartners.com/form
 [Thu Aug 22 00:00:18 2013] [error] [client 172.16.217.135] PHP Stack trace:, referer: http://pmishraweb.bridgetechnologypartners.com/form
 [Thu Aug 22 00:00:18 2013] [error] [client 172.16.217.135] PHP   1. {main}() /srv/www/pmishraweb/WebContent/result.php:0, referer: http://pmishraweb.bridgetechnologypartners.com/form
+[Thu Aug 22 08:21:49 2013] [error] [client 172.16.217.135] PHP Notice:  Undefined variable: result in /srv/www/pmishraweb/WebContent/result.php on line 51, referer: http://pmishraweb.bridgetechnologypartners.com/form
+[Thu Aug 22 08:21:49 2013] [error] [client 172.16.217.135] PHP Stack trace:, referer: http://pmishraweb.bridgetechnologypartners.com/form
+[Thu Aug 22 08:21:49 2013] [error] [client 172.16.217.135] PHP   1. {main}() /srv/www/pmishraweb/WebContent/result.php:0, referer: http://pmishraweb.bridgetechnologypartners.com/form
+[Thu Aug 22 08:21:49 2013] [error] [client 172.16.217.135] PHP Notice:  Undefined variable: result in /srv/www/pmishraweb/WebContent/result.php on line 60, referer: http://pmishraweb.bridgetechnologypartners.com/form
+[Thu Aug 22 08:21:49 2013] [error] [client 172.16.217.135] PHP Stack trace:, referer: http://pmishraweb.bridgetechnologypartners.com/form
+[Thu Aug 22 08:21:49 2013] [error] [client 172.16.217.135] PHP   1. {main}() /srv/www/pmishraweb/WebContent/result.php:0, referer: http://pmishraweb.bridgetechnologypartners.com/form
+[Thu Aug 22 08:23:14 2013] [error] [client 172.16.217.135] PHP Notice:  Undefined variable: result in /srv/www/pmishraweb/WebContent/result.php on line 60, referer: http://pmishraweb.bridgetechnologypartners.com/form
+[Thu Aug 22 08:23:14 2013] [error] [client 172.16.217.135] PHP Stack trace:, referer: http://pmishraweb.bridgetechnologypartners.com/form
+[Thu Aug 22 08:23:14 2013] [error] [client 172.16.217.135] PHP   1. {main}() /srv/www/pmishraweb/WebContent/result.php:0, referer: http://pmishraweb.bridgetechnologypartners.com/form
